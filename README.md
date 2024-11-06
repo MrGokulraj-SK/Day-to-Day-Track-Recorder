@@ -1,5 +1,6 @@
 # day-to-day-track-record
-![Screenshot_1](https://github.com/MrArunkumar-G/day-to-day-track-record/assets/131865679/2b6d8dd1-30d7-4df3-bee7-36d4c964e62c)
-![Screenshot_2](https://github.com/MrArunkumar-G/day-to-day-track-record/assets/131865679/157aa3a3-46e7-4e8a-ac02-2ff4fd640aab)
-![Screenshot_3](https://github.com/MrArunkumar-G/day-to-day-track-record/assets/131865679/3a102af5-a4a8-464e-a17e-3b0ad401f9a3)
-![Screenshot_4](https://github.com/MrArunkumar-G/day-to-day-track-record/assets/131865679/2f7ce3c6-f1ee-48c8-9aad-a493045c3bc7)
+
+![Screenshot_1](https://github.com/https://github.com/MrGokulraj-SK/Day-to-Day-Track-Recorder/assets/6517c534-8306-441b-93da-45d9f1f0bebd)
+![Screenshot_2](https://github.com/https://github.com/MrGokulraj-SK/Day-to-Day-Track-Recorder/assets/5c4121c4-84c4-473f-9a66-7b4d686ef279)
+![Screenshot_3](https://github.com/https://github.com/MrGokulraj-SK/Day-to-Day-Track-Recorder/assets/0cf9a057-e4e3-49f1-9c03-aef28e906926)
+![Screenshot_4](https://github.com/https://github.com/MrGokulraj-SK/Day-to-Day-Track-Recorder/assets/bdd100ad-a70f-49f3-a80e-c0be2bc82bfa)
