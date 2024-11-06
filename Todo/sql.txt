@@ -1,0 +1,23 @@
+CREATE DATABASE todo;
+
+USE todo;
+
+CREATE TABLE daily_activity (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    submission_time TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    wakeup VARCHAR(3),
+    meditation VARCHAR(3),
+    exercise VARCHAR(3),
+    english VARCHAR(3),
+    technical VARCHAR(3),
+    knew_topic_tech TEXT,
+    placement VARCHAR(3),
+    knew_topic_placement TEXT,
+    tech_affairs VARCHAR(3),
+    knew_topic_techaffairs TEXT,
+    mern VARCHAR(3),
+    knew_topic_mern TEXT,
+    program VARCHAR(3),
+    nofap VARCHAR(3),
+    note TEXT
+);

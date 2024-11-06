@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Table Details</title>
+    <style>
+        *{
+            padding-left: 10px;
+            padding-right: 10px;
+        }
+    </style>
+</head>
+<body style="background-image: url(static/tea-light.jpg); color: white; text-align: center;">
+    <h1>Track Record Details</h1>
+    <table border="3px" style="border-collapse: collapse;">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Submission Time</th>
+                <th>Wakeup</th>
+                <th>Meditation</th>
+                <th>Excercise</th>
+                <th>English Speaking</th>
+                <th>Technical Learnt</th>
+                <th>Technical Topic</th>
+                <th>Placement Learnt</th>
+                <th>Placement Topic</th>
+                <th>Tech Affairs</th>
+                <th>Tech Affair Topic</th>
+                <th>MERN</th>
+                <th>MERN Topic</th>
+                <th>1 Program</th>
+                <th>NoFAP</th>
+                <th>Note</th>                
+            </tr>
+        </thead>
+        <tbody>
+            {% for row in table_data %}
+                <tr>
+                    <td>{{ row[0] }}</td>
+                    <td>{{ row[1] }}</td>
+                    <td>{{ row[2] }}</td>
+                    <td>{{ row[3] }}</td>
+                    <td>{{ row[4] }}</td>
+                    <td>{{ row[5] }}</td>
+                    <td>{{ row[6] }}</td>
+                    <td>{{ row[7] }}</td>
+                    <td>{{ row[8] }}</td>
+                    <td>{{ row[9] }}</td>
+                    <td>{{ row[10] }}</td>
+                    <td>{{ row[11] }}</td>
+                    <td>{{ row[12] }}</td>
+                    <td>{{ row[13] }}</td>
+                    <td>{{ row[14] }}</td>
+                    <td>{{ row[15] }}</td>
+                    <td>{{ row[16] }}</td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</body>
+</html>
